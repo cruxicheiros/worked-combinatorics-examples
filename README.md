@@ -1,6 +1,6 @@
-# Worked examples - Combinatorics and Graph Theory by David Guichard
+# Worked examples - An Introduction to Combinatorics and Graph Theory by David Guichard
 
-In this repository, I'm working through the exercises in the textbook [Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/book/) by David Guichard of Whitman College. The textbook is licensed under Creative Commons BY-NC-SA 3.0.
+In this repository, I'm working through the exercises in the textbook [An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/book/) by David Guichard of Whitman College. The textbook is licensed under Creative Commons BY-NC-SA 3.0.
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
 
